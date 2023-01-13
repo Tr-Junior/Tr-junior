@@ -1,8 +1,8 @@
 <div>
   <img height="180em"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tr-Junior&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tr-Junior&layout=compact&langs_count=16&theme=material-palenight" />
+  <img align="right" height="170em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tr-Junior&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
 <div align="center">
   <div style="display: inline_block"><br>
